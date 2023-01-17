@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to work with multiple industries to lean business knowledge and provide solution 
-- 🥅 2023 Goals: Learn more about python frameworks and develop solution for business problems
+- 🥅 2023 Goals: Learn more about python web frameworks and data science models to develop solution for business problems
 - ⚡ Fun fact: I like to play compititve games and stream online
 
 ### Connect with me:
