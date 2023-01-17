@@ -1,26 +1,22 @@
 # Hi there, I'm Siddharth 👋 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/siddharth_9805)
-
 ## I'm a  Developer!!
 
-- 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Learn more about web3
-- ⚡ Fun fact: I love to draw and play guitar / drums
-- 😻 Check out the NFT collection I created: [CodeCats](https://opensea.io/collection/codecats?search[sortAscending]=true&search[sortBy]=PRICE&search[toggles][0]=BUY_NOW)
+- 👯 I’m looking to work with multiple industries to lean business knowledge and provide solution 
+- 🥅 2023 Goals: Learn more about python frameworks and develop solution for business problems
+- ⚡ Fun fact: I like to play compititve games and stream online
 
 ### Connect with me:
 
-[![website](./img/twitter-light.svg)](https://twitter.com/siddharth_9805#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/siddharth_9805#gh-dark-mode-only)
+[![website](./img/twitter-light.svg)](https://twitter.com/siddharth_9805 #gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/siddharth_9805 #gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](linkedin.com/in/siddharth-umachandar-ab70b9178r#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](linkedin.com/in/siddharth-umachandar-ab70b9178#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](linkedin.com/in/siddharth-umachandar-ab70b9178r #gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](linkedin.com/in/siddharth-umachandar-ab70b9178 #gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/sid_980575r#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/sid_980575#gh-dark-mode-only)
+[![website](./img/instagram-light.svg)](https://www.instagram.com/sid_980575r #gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://www.instagram.com/sid_980575 #gh-dark-mode-only)
 
 ### Languages and Tools:
 
