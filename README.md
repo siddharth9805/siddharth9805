@@ -12,10 +12,10 @@
 [![website](./img/twitter-light.svg)](https://twitter.com/siddharth_9805#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/siddharth_9805#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](linkedin.com/in/siddharth-umachandar-ab70b9178r#gh-light-mode-only)
+[![website](./img/linkedin-light.svg)](linkedin.com/in/siddharth-umachandar-ab70b9178#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](linkedin.com/in/siddharth-umachandar-ab70b9178#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/sid_980575r#gh-light-mode-only)
+[![website](./img/instagram-light.svg)](https://www.instagram.com/sid_980575#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/sid_980575#gh-dark-mode-only)
 
 ### Languages and Tools:
@@ -28,6 +28,7 @@
 [<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />]
+
 <br />
 
 <details>
