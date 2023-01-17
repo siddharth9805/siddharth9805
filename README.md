@@ -1,6 +1,6 @@
 # Hi there, I'm Siddharth 👋 
 
-## I'm a  Developer!!
+## I'm a  Full Stack Data Science Developer!!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to work with multiple industries to lean business knowledge and provide solution 
