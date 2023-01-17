@@ -9,14 +9,14 @@
 
 ### Connect with me:
 
-[![website](./img/twitter-light.svg)](https://twitter.com/siddharth_9805 #gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/siddharth_9805 #gh-dark-mode-only)
+[![website](./img/twitter-light.svg)](https://twitter.com/siddharth_9805#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/siddharth_9805#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](linkedin.com/in/siddharth-umachandar-ab70b9178r #gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](linkedin.com/in/siddharth-umachandar-ab70b9178 #gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](linkedin.com/in/siddharth-umachandar-ab70b9178r#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](linkedin.com/in/siddharth-umachandar-ab70b9178#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/sid_980575r #gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/sid_980575 #gh-dark-mode-only)
+[![website](./img/instagram-light.svg)](https://www.instagram.com/sid_980575r#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://www.instagram.com/sid_980575#gh-dark-mode-only)
 
 ### Languages and Tools:
 
