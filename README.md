@@ -39,8 +39,6 @@
 
 <img align="left" alt="Siddharth's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=siddharth9805&hide_border=false"/>
 
-<br />
-
 ---
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=siddharth9805&show_icons=true&locale=en&layout=compact" alt="siddharth9805" /></p>
