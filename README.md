@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to work with multiple industries to learn business knowledge and provide solution 
-- 🥅 2023 Goals: Learn more about web frameworks and develop solution for business problems
+- 🥅 2024 Goals: Learn more about web frameworks and develop solution for business problems
 - ⚡ Fun fact: I like to play compititve games and stream online
 
 ### Connect with me:
