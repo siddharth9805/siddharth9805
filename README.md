@@ -65,6 +65,6 @@
 
 ---
 
-### GitHub Stats
+### Programming Language Stats
 
-![Siddharth's GitHub
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=siddharth9805&show_icons=true&locale=en&layout=compact" alt="siddharth9805" />
