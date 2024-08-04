@@ -43,13 +43,13 @@
 
 ## Projects
 
-## [Razor Edge Salon Website](https://github.com/siddharth9805/Razor-Edge-Salon-Website) <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&style=plastic" /> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&style=plastic" /> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&style=plastic" />
+## [Razor Edge Salon Website](https://github.com/siddharth9805/Razor-Edge-Salon-Website) <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&style=plastic" /> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&style=plastic" /> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&style=plastic" />
 <p>:scissors: A responsive website for a salon that allows users to book appointments, view services, and check prices. The website features an admin panel where salon staff can manage bookings, update service information, and monitor customer feedback.<br>
-:computer: Developed using HTML5, CSS3, and JavaScript.</p>
+:computer: Developed using Next.js, CSS3, and JavaScript.</p>
 
-## [AI PDF Teacher](https://github.com/siddharth9805/AI-PDF-Teacher) <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white&style=plastic" /> <img src="https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white&style=plastic" />
+## [AI PDF Teacher](https://github.com/siddharth9805/AI-PDF-Teacher) <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white&style=plastic" /> <img src="https://img.shields.io/badge/-Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white&style=plastic" /> <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white&style=plastic" />
 <p>:robot: An AI-powered application to teach content from PDF files. The app extracts text from PDFs and uses natural language processing to generate summaries and quizzes to help users understand and retain information. It supports various subjects and is designed to be used by students and educators.<br>
-:computer: Developed using Python and Flask.</p>
+:computer: Developed using React, Node.js, and AWS.</p>
 
 ## [Phoenix Gaming Assistant App](https://github.com/siddharth9805/Phoenix-Gaming-Assistant-App) <img src="https://img.shields.io/badge/-Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&style=plastic" /> <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white&style=plastic" />
 <p>:video_game: A cross-platform mobile app to assist gamers with various tools and features such as game guides, tips, and news updates. The app includes a social feature where gamers can connect, share experiences, and form communities. It also offers in-game overlays to help track performance and strategy.<br>
@@ -65,6 +65,4 @@
 
 ---
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=siddharth9805&show_icons=true&locale=en&layout=compact" alt="siddharth9805" />
-
-[twitter]: https://twitter.com/s
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=siddharth9805&show_icons=true&locale
