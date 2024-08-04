@@ -1,11 +1,11 @@
 # Hi there, I'm Siddharth 👋 
 
-## I'm a  Full Stack Developer!!
+## I'm a Full Stack Developer!!
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to work with multiple industries to learn business knowledge and provide solution 
-- 🥅 2024 Goals: Learn more about web frameworks and develop solution for business problems
-- ⚡ Fun fact: I like to play compititve games and stream online
+- 👯 I’m looking to work with multiple industries to learn business knowledge and provide solutions
+- 🥅 2024 Goals: Learn more about web frameworks and develop solutions for business problems
+- ⚡ Fun fact: I like to play competitive games and stream online
 
 ### Connect with me:
 
@@ -36,8 +36,24 @@
 <img align="left" alt="Kubernetes" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" style="padding-right:10px;" />
 <img align="left" alt="Google Cloud" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" style="padding-right:10px;" />
 
-
 <br />
+<br />
+
+---
+
+## Projects
+
+## [Razor Edge Salon Website](https://github.com/siddharth9805/Razor-Edge-Salon-Website) <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&style=plastic" /> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&style=plastic" /> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&style=plastic" />
+<p>:scissors: A responsive website for a salon that allows users to book appointments, view services, and check prices. The website features an admin panel where salon staff can manage bookings, update service information, and monitor customer feedback.<br>
+:computer: Developed using HTML5, CSS3, and JavaScript.</p>
+
+## [AI PDF Teacher](https://github.com/siddharth9805/AI-PDF-Teacher) <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white&style=plastic" /> <img src="https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white&style=plastic" />
+<p>:robot: An AI-powered application to teach content from PDF files. The app extracts text from PDFs and uses natural language processing to generate summaries and quizzes to help users understand and retain information. It supports various subjects and is designed to be used by students and educators.<br>
+:computer: Developed using Python and Flask.</p>
+
+## [Phoenix Gaming Assistant App](https://github.com/siddharth9805/Phoenix-Gaming-Assistant-App) <img src="https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&style=plastic" /> <img src="https://img.shields.io/badge/-Firebase-0396DE?style=for-the-badge&logo=firebase&logoColor=FFCA28&style=plastic" />
+<p>:video_game: A cross-platform mobile app to assist gamers with various tools and features such as game guides, tips, and news updates. The app includes a social feature where gamers can connect, share experiences, and form communities. It also offers in-game overlays to help track performance and strategy.<br>
+:computer: Developed using Flutter and Firebase.</p>
 
 ---
 
