@@ -65,4 +65,6 @@
 
 ---
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-l
+### GitHub Stats
+
+![Siddharth's GitHub
