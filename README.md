@@ -2,10 +2,10 @@
 
 ## I'm a Full Stack Developer!!
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to work with multiple industries to learn business knowledge and provide solutions
-- 🥅 2024 Goals: Learn more about web frameworks and develop solutions for business problems
-- ⚡ Fun fact: I like to play competitive games and stream online
+- 🌱 I’m continuously expanding my knowledge and skills in full-stack development.
+- 👯 I’m eager to collaborate with diverse industries to gain business insights and deliver effective solutions.
+- 🥅 2024 Goals: Deepen my expertise in web frameworks and develop innovative solutions for real-world challenges.
+- ⚡ Fun fact: I'm an avid competitive gamer and enjoy streaming online in my spare time.
 
 ### Connect with me:
 
@@ -65,4 +65,4 @@
 
 ---
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=siddharth9805&show_icons=true&locale
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-l
