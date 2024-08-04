@@ -43,7 +43,7 @@
 
 ## Projects
 
-### [Razor Edge Salon Website](https://github.com/siddharth9805/Razor-Edge-Salon-Website) <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&style=plastic" / <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&style=plastic" /> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&style=plastic" />
+### [Razor Edge Salon Website](https://github.com/siddharth9805/Razor-Edge-Salon-Website) <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&style=plastic" /> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&style=plastic" /> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&style=plastic" />
 - :scissors: A responsive website for a salon.
 - :calendar: Allows users to book appointments, view services, and check prices.
 - :clipboard: Features an admin panel for salon staff to manage bookings, update service information, and monitor customer feedback.
