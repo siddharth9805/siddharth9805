@@ -43,25 +43,40 @@
 
 ## Projects
 
-## [Razor Edge Salon Website](https://github.com/siddharth9805/Razor-Edge-Salon-Website) <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&style=plastic" /> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&style=plastic" /> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&style=plastic" />
-<p>:scissors: A responsive website for a salon that allows users to book appointments, view services, and check prices. The website features an admin panel where salon staff can manage bookings, update service information, and monitor customer feedback.<br>
-:computer: Developed using Next.js, CSS3, and JavaScript.</p>
+### [Razor Edge Salon Website](https://github.com/siddharth9805/Razor-Edge-Salon-Website) 
+<img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&style=plastic" /> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&style=plastic" /> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&style=plastic" />
+- :scissors: A responsive website for a salon.
+- :calendar: Allows users to book appointments, view services, and check prices.
+- :clipboard: Features an admin panel for salon staff to manage bookings, update service information, and monitor customer feedback.
+- :computer: Developed using Next.js, CSS3, and JavaScript.
 
-## [AI PDF Teacher](https://github.com/siddharth9805/AI-PDF-Teacher) <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white&style=plastic" /> <img src="https://img.shields.io/badge/-Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white&style=plastic" /> <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white&style=plastic" />
-<p>:robot: An AI-powered application to teach content from PDF files. The app extracts text from PDFs and uses natural language processing to generate summaries and quizzes to help users understand and retain information. It supports various subjects and is designed to be used by students and educators.<br>
-:computer: Developed using React, Node.js, and AWS.</p>
+### [AI PDF Teacher](https://github.com/siddharth9805/AI-PDF-Teacher) 
+<img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white&style=plastic" /> <img src="https://img.shields.io/badge/-Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white&style=plastic" /> <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white&style=plastic" />
+- :robot: AI-powered application to teach content from PDF files.
+- :books: Extracts text and uses NLP to generate summaries and quizzes.
+- :student: Designed for students and educators.
+- :computer: Developed using React, Node.js, and AWS.
 
-## [Phoenix Gaming Assistant App](https://github.com/siddharth9805/Phoenix-Gaming-Assistant-App) <img src="https://img.shields.io/badge/-Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&style=plastic" /> <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white&style=plastic" />
-<p>:video_game: A cross-platform mobile app to assist gamers with various tools and features such as game guides, tips, and news updates. The app includes a social feature where gamers can connect, share experiences, and form communities. It also offers in-game overlays to help track performance and strategy.<br>
-:computer: Developed using Android Studio and Java.</p>
+### [Phoenix Gaming Assistant App](https://github.com/siddharth9805/Phoenix-Gaming-Assistant-App) 
+<img src="https://img.shields.io/badge/-Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&style=plastic" /> <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white&style=plastic" />
+- :video_game: A cross-platform mobile app to assist gamers.
+- :trophy: Includes game guides, tips, news updates, and social features.
+- :chart_with_upwards_trend: Offers in-game overlays to track performance and strategy.
+- :computer: Developed using Android Studio and Java.
 
-## [Django Ninja JWT Template](https://github.com/siddharth9805/Django-Ninja-JWT-Template) <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white&style=plastic" /> <img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white&style=plastic" /> <img src="https://img.shields.io/badge/-JWT-000?style=for-the-badge&logo=json-web-tokens&logoColor=white&style=plastic" />
-<p>:lock: A template for creating REST APIs with Django Ninja and JWT authentication. This template provides a solid foundation for building secure and scalable web applications. It includes user registration, login, and token refresh features, along with comprehensive error handling.<br>
-:computer: Developed using Python, Django, and JWT.</p>
+### [Django Ninja JWT Template](https://github.com/siddharth9805/Django-Ninja-JWT-Template) 
+<img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white&style=plastic" /> <img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white&style=plastic" /> <img src="https://img.shields.io/badge/-JWT-000?style=for-the-badge&logo=json-web-tokens&logoColor=white&style=plastic" />
+- :lock: Template for creating REST APIs with Django Ninja and JWT authentication.
+- :busts_in_silhouette: Includes user registration, login, and token refresh features.
+- :warning: Comprehensive error handling.
+- :computer: Developed using Python, Django, and JWT.
 
-## [Meeting Minutes](https://github.com/siddharth9805/Meeting-Minutes) <img src="https://img.shields.io/badge/-Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&style=plastic" /> <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white&style=plastic" />
-<p>:memo: An Android application to automate the summarization of meeting minutes. It uses natural language processing to extract key points and actions from meeting recordings, and generates concise summaries. The application aims to save time and improve the accuracy of meeting documentation.<br>
-:computer: Developed using Android Studio and Java.</p>
+### [Meeting Minutes](https://github.com/siddharth9805/Meeting-Minutes) 
+<img src="https://img.shields.io/badge/-Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&style=plastic" /> <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white&style=plastic" />
+- :memo: Android application to automate the summarization of meeting minutes.
+- :speech_balloon: Uses NLP to extract key points and actions from meeting recordings.
+- :scroll: Generates concise summaries.
+- :computer: Developed using Android Studio and Java.
 
 ---
 
