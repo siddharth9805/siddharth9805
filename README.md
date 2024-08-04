@@ -55,10 +55,14 @@
 <p>:video_game: A cross-platform mobile app to assist gamers with various tools and features such as game guides, tips, and news updates. The app includes a social feature where gamers can connect, share experiences, and form communities. It also offers in-game overlays to help track performance and strategy.<br>
 :computer: Developed using Flutter and Firebase.</p>
 
+## [Django Ninja JWT Template](https://github.com/siddharth9805/Django-Ninja-JWT-Template) <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white&style=plastic" /> <img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white&style=plastic" /> <img src="https://img.shields.io/badge/-JWT-000?style=for-the-badge&logo=json-web-tokens&logoColor=white&style=plastic" />
+<p>:lock: A template for creating REST APIs with Django Ninja and JWT authentication. This template provides a solid foundation for building secure and scalable web applications. It includes user registration, login, and token refresh features, along with comprehensive error handling.<br>
+:computer: Developed using Python, Django, and JWT.</p>
+
+## [Meeting Minutes](https://github.com/siddharth9805/Meeting-Minutes) <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white&style=plastic" /> <img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white&style=plastic" /> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&style=plastic" />
+<p>:memo: A web application to automate the summarization of meeting minutes. It uses natural language processing to extract key points and actions from meeting recordings, and generates concise summaries. The application aims to save time and improve the accuracy of meeting documentation.<br>
+:computer: Developed using Python, Django, and JavaScript.</p>
+
 ---
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=siddharth9805&show_icons=true&locale=en&layout=compact" alt="siddharth9805" />
-
-[twitter]: https://twitter.com/siddharth_9805
-[instagram]: https://www.instagram.com/sid_980575
-[linkedin]: https://www.linkedin.com/in/siddharth-umachandar-ab70b9178
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=siddharth9805&show_icons=true&locale=en&layout=compact" alt="
