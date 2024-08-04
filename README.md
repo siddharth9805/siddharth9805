@@ -51,18 +51,20 @@
 <p>:robot: An AI-powered application to teach content from PDF files. The app extracts text from PDFs and uses natural language processing to generate summaries and quizzes to help users understand and retain information. It supports various subjects and is designed to be used by students and educators.<br>
 :computer: Developed using Python and Flask.</p>
 
-## [Phoenix Gaming Assistant App](https://github.com/siddharth9805/Phoenix-Gaming-Assistant-App) <img src="https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&style=plastic" /> <img src="https://img.shields.io/badge/-Firebase-0396DE?style=for-the-badge&logo=firebase&logoColor=FFCA28&style=plastic" />
+## [Phoenix Gaming Assistant App](https://github.com/siddharth9805/Phoenix-Gaming-Assistant-App) <img src="https://img.shields.io/badge/-Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&style=plastic" /> <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white&style=plastic" />
 <p>:video_game: A cross-platform mobile app to assist gamers with various tools and features such as game guides, tips, and news updates. The app includes a social feature where gamers can connect, share experiences, and form communities. It also offers in-game overlays to help track performance and strategy.<br>
-:computer: Developed using Flutter and Firebase.</p>
+:computer: Developed using Android Studio and Java.</p>
 
 ## [Django Ninja JWT Template](https://github.com/siddharth9805/Django-Ninja-JWT-Template) <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white&style=plastic" /> <img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white&style=plastic" /> <img src="https://img.shields.io/badge/-JWT-000?style=for-the-badge&logo=json-web-tokens&logoColor=white&style=plastic" />
 <p>:lock: A template for creating REST APIs with Django Ninja and JWT authentication. This template provides a solid foundation for building secure and scalable web applications. It includes user registration, login, and token refresh features, along with comprehensive error handling.<br>
 :computer: Developed using Python, Django, and JWT.</p>
 
-## [Meeting Minutes](https://github.com/siddharth9805/Meeting-Minutes) <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white&style=plastic" /> <img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white&style=plastic" /> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&style=plastic" />
-<p>:memo: A web application to automate the summarization of meeting minutes. It uses natural language processing to extract key points and actions from meeting recordings, and generates concise summaries. The application aims to save time and improve the accuracy of meeting documentation.<br>
-:computer: Developed using Python, Django, and JavaScript.</p>
+## [Meeting Minutes](https://github.com/siddharth9805/Meeting-Minutes) <img src="https://img.shields.io/badge/-Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&style=plastic" /> <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white&style=plastic" />
+<p>:memo: An Android application to automate the summarization of meeting minutes. It uses natural language processing to extract key points and actions from meeting recordings, and generates concise summaries. The application aims to save time and improve the accuracy of meeting documentation.<br>
+:computer: Developed using Android Studio and Java.</p>
 
 ---
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=siddharth9805&show_icons=true&locale=en&layout=compact" alt="
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=siddharth9805&show_icons=true&locale=en&layout=compact" alt="siddharth9805" />
+
+[twitter]: https://twitter.com/s
