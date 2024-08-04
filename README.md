@@ -53,12 +53,14 @@
 - :robot: AI-powered application to teach content from PDF files.
 - :books: Extracts text and uses NLP to generate summaries and quizzes.
 - :student: Designed for students and educators.
+- :speech_balloon: Uses ChatGPT API for interactive learning experiences.
 - :computer: Developed using React, Node.js, and AWS.
 
 ### [Phoenix Gaming Assistant App](https://github.com/siddharth9805/Phoenix-Gaming-Assistant-App) <img src="https://img.shields.io/badge/-Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&style=plastic" /> <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white&style=plastic" />
 - :video_game: A cross-platform mobile app to assist gamers.
 - :trophy: Includes game guides, tips, news updates, and social features.
 - :chart_with_upwards_trend: Offers in-game overlays to track performance and strategy.
+- :wheelchair: Platform for disabled people to play games in Android using their voice.
 - :computer: Developed using Android Studio and Java.
 
 ### [Django Ninja JWT Template](https://github.com/siddharth9805/Django-Ninja-JWT-Template) <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white&style=plastic" /> <img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white&style=plastic" /> <img src="https://img.shields.io/badge/-JWT-000?style=for-the-badge&logo=json-web-tokens&logoColor=white&style=plastic" />
