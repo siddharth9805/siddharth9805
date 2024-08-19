@@ -43,18 +43,18 @@
 
 ## Projects
 
-### [Razor Edge Salon Website](https://github.com/siddharth9805/Razor-Edge-Salon-Website) <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&style=plastic" /> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&style=plastic" /> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&style=plastic" />
-- :scissors: A responsive website for a salon.
-- :calendar: Allows users to book appointments, view services, and check prices.
-- :clipboard: Features an admin panel for salon staff to manage bookings, update service information, and monitor customer feedback.
-- :computer: Developed using Next.js, CSS3, and JavaScript.
-
 ### [AI PDF Teacher](https://github.com/siddharth9805/AI-PDF-Teacher) <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white&style=plastic" /> <img src="https://img.shields.io/badge/-Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white&style=plastic" /> <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white&style=plastic" />
 - :robot: AI-powered application to teach content from PDF files.
 - :books: Extracts text and uses NLP to generate summaries and quizzes.
 - :student: Designed for students and educators.
 - :speech_balloon: Uses ChatGPT API for interactive learning experiences.
 - :computer: Developed using React, Node.js, and AWS.
+
+### [Razor Edge Salon Website](https://github.com/siddharth9805/Razor-Edge-Salon-Website) <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&style=plastic" /> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&style=plastic" /> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&style=plastic" />
+- :scissors: A responsive website for a salon.
+- :calendar: Allows users to book appointments, view services, and check prices.
+- :clipboard: Features an admin panel for salon staff to manage bookings, update service information, and monitor customer feedback.
+- :computer: Developed using Next.js, CSS3, and JavaScript.
 
 ### [Phoenix Gaming Assistant App](https://github.com/siddharth9805/Phoenix-Gaming-Assistant-App) <img src="https://img.shields.io/badge/-Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&style=plastic" /> <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white&style=plastic" />
 - :video_game: A cross-platform mobile app to assist gamers.
