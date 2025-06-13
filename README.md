@@ -4,7 +4,7 @@
 
 - 🌱 I’m continuously expanding my knowledge and skills in full-stack development.
 - 👯 I’m eager to collaborate with diverse industries to gain business insights and deliver effective solutions.
-- 🥅 2024 Goals: Deepen my expertise in web frameworks and develop innovative solutions for real-world challenges.
+- 🥅 2025 Goals: Deepen my expertise in web frameworks and develop innovative solutions for real-world challenges.
 - ⚡ Fun fact: I'm an avid competitive gamer and enjoy streaming online in my spare time.
 
 ### Connect with me:
